@@ -1,1 +1,1 @@
-print("hello from jenkines ci/cd")
+print("build triggered automatically using webhooks")
