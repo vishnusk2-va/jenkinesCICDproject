@@ -1,1 +1,1 @@
-print("build triggered automatically using webhooks")
+print("build triggered automatically using webhook")
